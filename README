@@ -1,0 +1,12 @@
+Odroid XU4
+==========
+
+This layer depends on:
+
+  URI: git://git.openembedded.org/bitbake
+  branch: 1.28
+
+  URI: git://git.openembedded.org/openembedded-core
+  layers: meta
+  branch: jethro
+
