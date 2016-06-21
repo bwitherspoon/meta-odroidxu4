@@ -8,7 +8,7 @@ SRC_URI = "\
     file://defconfig \
 "
 
-SRCREV_odroidxu4 = "e9990ec4844fc16f9c18b67d2613887cc8713f9e"
+SRCREV_odroidxu4 = "ae5b5f99f06f936382edda30522787bdde1248bd"
 
 LINUX_VERSION ?= "3.10"
 LINUX_VERSION_EXTENSION = "-odroidxu4"
